@@ -1,0 +1,7 @@
+pytorch==1.4
+spacy==2.2
+numpy==1.19.0
+pandas==1.0.5
+tqdm==4.46.1
+scispacy==0.2.4
+transformers
