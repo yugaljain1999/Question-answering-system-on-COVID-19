@@ -3,7 +3,7 @@ This repository is focussing on question answering system based on research arti
 
 # How to run this repo?
 1. Clone the repository.
-2. Download data from [here]('https://drive.google.com/file/d/1Swdd9D5KfBrkTPv9yJZl_T-Rr9eRu8mg/view?usp=sharing') and store it in cloned repository.
+2. Download data from [here](https://drive.google.com/file/d/1Swdd9D5KfBrkTPv9yJZl_T-Rr9eRu8mg/view?usp=sharing) and store it in cloned repository.
 3. Run this command: pip install requirements.txt
 4. Run Notebook1 and then Notebook2 
 5. Finally, you will get answer related to given context and a query.
